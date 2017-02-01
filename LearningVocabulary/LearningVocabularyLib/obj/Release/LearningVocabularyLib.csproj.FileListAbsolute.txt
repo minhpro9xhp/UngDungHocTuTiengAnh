@@ -1,0 +1,184 @@
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.config
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\Interop.Shell32.dll
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.csproj.ResolveComReference.cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.application
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabularyLib\obj\Release\LearningVocabularyLib.pdb

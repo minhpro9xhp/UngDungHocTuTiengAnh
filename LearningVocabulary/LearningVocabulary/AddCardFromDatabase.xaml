@@ -1,0 +1,41 @@
+﻿<Window x:Class="UngDungHocTu.AddCardFromDatabase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UngDungHocTu"
+        mc:Ignorable="d"
+        Title="Chọn từ để học" Height="Auto" SizeToContent="WidthAndHeight" MaxHeight="600" Width="Auto" MaxWidth="800">
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="5" Grid.Row="0" Grid.Column="0" Orientation="Vertical">
+            <TextBlock HorizontalAlignment="Center" FontFamily="Arial" FontSize="15">CHỌN TỪ ĐỂ HỌC</TextBlock>
+
+            <TextBlock HorizontalAlignment="Left" FontSize="12" Margin="10,0,0,0">
+                Ghi chú:
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="12" Margin="10,0,0,0" TextWrapping="Wrap">
+                1. Chọn một hoặc nhiều từ trong danh sách và nhấn "Chọn từ"
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" FontSize="12" Margin="10,0,0,0">
+                2. Danh sách từ đang học sẽ được điền đầy bởi từ bạn chọn, cho tới khi đạt tới số lượng giới hạn
+            </TextBlock>
+            
+
+        </StackPanel>
+        <DataGrid Name="gridDecks" MinWidth="200" MaxHeight="300" Grid.Row="1" Grid.Column="0" FontSize="12" HorizontalAlignment="Center" ScrollViewer.CanContentScroll="True" CanUserAddRows="False">
+        </DataGrid>
+        <DockPanel Grid.Row="2" Grid.Column="0" Margin="5" LastChildFill="False" >
+            <Button Name="butChoose" DockPanel.Dock="Left"  Margin="5" Width="Auto" FontSize="10" Padding="5" Click="butChoose_Click">Chọn những từ trên</Button>           
+        </DockPanel>
+    </Grid>
+</Window>

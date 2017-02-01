@@ -1,0 +1,1108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0052)http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" href="./IPA transcription in Unicode_files/shaps-layout.css" type="text/css" title="SHAPS Stylesheet">
+
+  <title>IPA transcription in Unicode</title>
+ </head>
+
+ <body>
+  <!-- Header  -->
+  <center>
+
+<!-- title bar -->
+  <form name="googlesearch" class="googlesearch" method="get" action="http://search2.ucl.ac.uk/search/search.cgi">
+<center><table id="titleTable" class="banner" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr height="110">
+  <td bgcolor="#181512" height="110" valign="top" align="left">
+  <br>
+  <span class="section_header_white"><a href="http://www.ucl.ac.uk/pals/">UCL PSYCHOLOGY &amp; LANGUAGE SCIENCES</a></span><br>
+  <span class="section_header_white_sub"><a href="http://www.ucl.ac.uk/brain-sciences/">Faculty of Brain Sciences</a></span>
+  </td>
+  <td bgcolor="#181512" height="110" align="right" valign="bottom" class="nopadding" id="uclLogo">
+    <a href="http://www.ucl.ac.uk/"><img src="./IPA transcription in Unicode_files/ucl-logo.gif" width="265" height="110" border="0"></a>
+  </td>
+</tr>
+<tr id="menuBar" height="24">
+  <td bgcolor="#97BFDF" colspan="2" valign="middle" align="left">
+    <label for="q"></label>
+    <input type="text" class="googlesearch_text" name="query" id="query" value="Search UCL" tabindex="1" accesskey="q" onclick="document.forms[0].query.value=&#39;&#39;">
+    <input type="hidden" name="collection" value="ucl-public-meta">
+    &nbsp;
+    <span class="nodecorate">
+      <a href="http://www.ucl.ac.uk/">UCL</a>
+      &nbsp;»&nbsp;
+      <a href="http://www.ucl.ac.uk/pals/">Psychology &amp; Language Sciences</a>
+      &nbsp;»&nbsp;
+      <a href="http://www.phon.ucl.ac.uk/">Resources in Speech, Hearing &amp; Phonetic Sciences</a>
+    <script>
+    	url=location.href;
+    	idx=url.indexOf("/home/");
+    	if (idx >= 0) {
+    		name=url.substr(idx+6);
+    		idx2=name.indexOf("/");
+    		if (idx2>0) name=name.substr(0,idx2);
+    		name=name.substr(0,1).toUpperCase()+name.substr(1);
+    		url=location.href.substr(0,idx+6+idx2);
+    		document.write("&nbsp;&raquo;&nbsp; <a href='"+url+"'>"+name+"</a>");
+    	}
+    	idx=url.indexOf("/shop/");
+    	if (idx >= 0) {
+    		document.write("&nbsp;&raquo;&nbsp; <a href='/shop/'>Shop</a>");
+    	}
+    </script>&nbsp;»&nbsp; <a href="http://www.phon.ucl.ac.uk/home/wells">Wells</a>
+    </span>
+  </td>
+  </tr>
+</tbody></table>
+
+
+
+<!--- body ---->
+<table id="bodyTable" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+
+<!-- side menu -->
+<td width="150" valign="top" align="left" id="sideMenu">
+<div class="sideMenu">
+
+  <div class="sideMenuBox"><a href="http://www.ucl.ac.uk/pals/research/shaps/">SH&amp;PS Home</a></div>
+  <div class="sideMenuBox"><a href="http://www.phon.ucl.ac.uk/resource/">Resources &amp; Tools</a></div>
+  <div class="sideMenuItem"><a href="http://www.phon.ucl.ac.uk/resource/educational.php">&nbsp;&nbsp;Educational</a></div>
+  <div class="sideMenuItem"><a href="http://www.phon.ucl.ac.uk/resource/phonetics.php">&nbsp;&nbsp;Phonetic Symbols</a></div>
+  <div class="sideMenuItem"><a href="http://www.phon.ucl.ac.uk/resource/software.php">&nbsp;&nbsp;Software</a></div>
+  <div class="sideMenuItem"><a href="http://www.phon.ucl.ac.uk/resource/speech.php">&nbsp;&nbsp;Speech Audio</a></div>
+  <div class="sideMenuBox"><a href="http://www.phon.ucl.ac.uk/shop/">Web Shop</a></div>
+
+</div>
+</td>
+
+
+<!-- main content -->
+<td id="bodyText" valign="top">
+<div class="bodyText">
+
+  <!--  End of Header  -->
+
+
+<!-- ############################ start of body text ################################### -->
+
+<div class="bodyTextUnicode"><font face="Segoe UI,Lucida Grande">
+<br>
+<p align="center">
+  <span class="style1"><a name="top" id="top">Look at this:
+  </a> [ə]. <br>
+Do you see a phonetic symbol between the square brackets?<br>
+(You should see a schwa.)</span></p>
+ <h1 align="center">The <span style="background-color: #ccffff">International
+Phonetic Alphabet</span> in Unicode</h1>
+<hr>
+<table align="center">
+  <tbody><tr><td align="center" bgcolor="#B7FFFF"><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#display"><h2>Displaying IPA symbols</h2></a>
+		</td>
+    <td>&nbsp;&nbsp;&nbsp;	</td>
+    <td align="center" bgcolor="#B7FFFF"><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#insert"><h2>Inserting IPA symbols in web documents</h2></a>	</td>
+    <td>&nbsp;&nbsp;&nbsp;	</td>
+    <td align="center" bgcolor="#B7FFFF"><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#numbers"><h2>Unicode decimal numbers for IPA symbols</h2></a>
+</td>
+  </tr>
+</tbody></table><hr>
+<h2>
+</h2>
+
+ <h2><a name="display" id="display"></a>Displaying IPA symbols</h2>
+<p>For you to be able to display Unicode phonetic symbols correctly on your web browser,</p>
+<ul><li>the browser must be <b>Unicode-compliant</b> (all current browsers are) </li>
+<li>you must be running Windows 95 or later, or, on a Macintosh, OSX; (otherwise, and for Unix or Linux,
+see advice from the <a href="http://www.unicode.org/help/display_problems.html">
+Unicode</a> site)</li>
+<li>you must have <b>installed</b> a Unicode font that includes the IPA symbols <br>
+The list of such Windows TrueType/OpenType fonts currently available and that I recommend is as follows.
+<ul>
+<li><b>Arial</b> with Windows Vista; not previous versions </li>
+<li><b>Arial Unicode MS</b> <!-- (<a href="
+http://office.microsoft.com/downloads/2000/aruniupd.aspx">download</a>)  <font color="red"><i>August 2002:</i> Microsoft has removed the Arial Unicode MS Font for Publisher 2000 free download. The font is still available as part of Microsoft Office XP and Microsoft Publisher 2002.</font></li>-->
+</li><li><b>Charis SIL</b> (<a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=SILFontList">download</a>) — an excellent font from SIL</li>
+<li><b>Courier New</b> with Windows Vista; not previous versions</li>
+<!-- <li><b>DejaVu Sans</b> (<a href="http://en.wikipedia.org/wiki/DejaVu_fonts">description</a>, <a href="http://prdownloads.sourceforge.net/dejavu/dejavu-ttf-2.6.zip?download">download</a>) &mdash; a nice sans serif font</li> -->
+<li><b>Doulos SIL</b> (<a href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=DoulosSILfont">download</a>) - the familiar SIL Doulos font, now in comprehensive Unicode version
+</li>
+<li><b>Gentium</b> (<a href="http://www.sil.org/~gaultney/gentium">download</a>)  </li>
+<li><b>Lucida Grande</b> with Mac OS X/Safari and later
+</li><li><b>Lucida Sans Unicode</b>, (<a href="http://www.phon.ucl.ac.uk/home/wells/lsansuni.ttf">download</a>)  — blocky, but widely available (supplied with many versions of Windows)</li>
+<li><b>Microsoft Sans Serif</b> with Windows Vista and later; not previous versions</li>
+<li><b>Segoe UI</b> with Windows Vista and later</li>
+<li><b>Tahoma</b> with Windows Vista and later; not previous versions</li>
+<li><b>Times New Roman</b> with Windows Vista and later; not previous versions
+<!-- <li><b>TITUS Cyberbit</b> (<a href="http://titus.fkidg1.uni-frankfurt.de/unicode/tituut.asp">download</a>) with a vast set of Private Use characters, providing new diacritic-letter combinations </li> -->
+
+<!-- Others known to me:
+<ul>
+<li><b>Alphabetum</b> - &euro;15/US$15/&#163;10 sterling from
+<a href="mailto:jmag0042@guindo.cnice.mecd.es">J.J.Marcos</a>. Also
+<a href=" http://user.dtcc.edu/~berlin/font/unicode.htm">download</a> demo version </li>
+<li><b>Code 2000</b> (<a href="http://home.att.net/~jameskass/">download</a>, shareware, $5)</li>
+<li><b>MS Mincho</b>, 8.66 MB (from <a href="http://office.microsoft.com/downloads/">Microsoft</a> site, download and run "Office XP Tool: Japanese Language Pack") -&mdash; this font lacks the IPA diacritics and certain other symbols</li>
+<li><b>Cardo</b> beta version (<a href="http://scholarsfonts.net">details, download</a>)  Lacks click symbols </li>
+<li><b>Junicode</b> beta version (<a href="http://www.engl.virginia.edu/OE/junicode/junicode.html">download</a>)  Lacks click symbols and some diacritics </li>
+<li><b>Thryomanes</b> (download <a href="http://members.tripod.com/Thryomanes/fonts.html">here</a> or <a href="http://www.io.com/~hmiller/lang/">here</a>) </li> -->
+
+
+</li></ul>and</li>
+<li>the web document you are displaying must specify this font with either a style sheet {font-family} tag or an in-line &lt;font face&gt; tag.</li>
+</ul>
+<p><font color="red">The style sheet in the head of <b>this document</b> specifies the font Arial MS Unicode, or failing that Lucida Sans Unicode. There is also <a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode-test.htm">another version</a>, with no font specified, that you can use to test fonts.</font></p>
+<h2><a name="insert" id="insert">Inserting</a> IPA symbols in web documents
+</h2><p>There are several ways to insert Unicode IPA symbols into your HTML files:
+by using MS Word (97 and later), or by using a numeric code.
+</p>
+<ul><li><ul><li>In <strong>Word</strong>, with a Unicode font selected, use
+<u>I</u>nsert | <u>S</u>ymbol (normal text) and scroll down the box until you find
+the character you want. Select it, and <u>I</u>nsert.</li><li>With <b>Word 2003</b> and later, you can alternatively type in the Unicode hex number (see below), select it, and do Alt-X. The character will appear.</li><li>If you are going to use the character frequently,
+it might be worthwhile assigning a Shortcut <u>K</u>ey (macro) for it.</li><li>You can also use the program Character Map to find your character, then select, copy and paste it.
+</li><li>Or you can use a keyboard facility such as <a href="http://www.phon.ucl.ac.uk/resource/phonetics/">this</a>.  </li><li>Afterwards, save the document
+using <u>F</u>ile | <strong>Save as <u>H</u>TML</strong>. Word will automatically
+convert the character into the corresponding numeric entity (see next para) or
+the corresponding UTF-8 encoding. </li></ul>
+</li><li>Alternatively, write direct HTML, referencing each IPA symbol using the code numbers listed below. You can do this using either <strong>decimal</strong> or <strong>hex</strong> numbers. To create such a "<strong>numeric entity</strong>", you put
+ampersand (<code>&amp;</code>), number sign (<code>#</code>), the Unicode number for the symbol, and semicolon. If using hex numbers, you must place an <code>x</code> between the number sign and the number.
+For example, to include the velar nasal symbol, <font color="red">ŋ</font>,
+which has the Unicode decimal number 331, write <code>&amp;#331;</code>, or, since its hex number is 014B, you can alternatively write <code>&amp;#x014B;</code>. To transcribe the English word <i>thing</i>, <font color="red">θɪŋ</font>, write <code>&amp;#952;&amp;#618;&amp;#331;</code> or, alternatively, <code>&amp;#x03B8;&amp;#x026A;&amp;#x014B;</code>. The browser will render these with the correct IPA symbols, always provided an appropriate font is available.</li>
+<li>Force the use of an appropriate font by including a font tag as mentioned above, for example
+<ul>
+<li> in your cascading style sheet, <code>p {font-family:"lucida sans unicode";}</code>, or </li>
+<li>in the text, an in-line tag <code>&lt;font face="Lucida Sans Unicode"&gt;</code>.</li>
+</ul>
+ </li></ul> 
+
+<h2><a name="numbers" id="numbers"></a>Unicode <i>decimal</i> and <i>hex</i> numbers for IPA symbols</h2><p>The <a href="http://www.unicode.org/">Unicode manual</a> lists code numbers only in hexadecimal. Here they are listed with their decimal numbers as well.
+</p>
+<p align="center"><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#alfa">Alphabetic</a> | <a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#spac">Spacing diacritics</a> | <a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#nonspac">Non-spacing diacritics</a> | <a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#arrows">Arrows</a>
+
+</p><h3><a name="alfa" id="alfa"></a>Alphabetic</h3>
+(excluding the standard characters a-z)
+
+<p></p>
+<table align="center" width="90%">
+<tbody><tr bgcolor="#C6E2FF"><th>Symbol	</th>
+  <th>decimal </th>
+  <th>hex </th>
+  <th>value
+</th>
+</tr>
+<tr><td width="10%">ɑ	</td>
+  <td width="15%">593 </td>
+  <td width="15%">0251	</td>
+  <td width="60%">open back unrounded
+</td>
+</tr>
+<tr><td>ɐ	</td>
+  <td>592 </td>
+  <td>0250	</td>
+  <td>open-mid schwa
+</td>
+</tr>
+<tr><td>ɒ	</td>
+  <td>594 </td>
+  <td>0252	</td>
+  <td>open back rounded
+</td>
+</tr>
+<tr><td>æ	</td>
+  <td>230	</td>
+  <td>00E6	</td>
+  <td>raised open front unrounded
+</td>
+</tr>
+<tr><td>ɓ	</td>
+  <td>595	</td>
+  <td>0253	</td>
+  <td>vd bilabial implosive
+</td>
+</tr>
+<tr><td>ʙ	</td>
+  <td>665 </td>
+  <td>0299	</td>
+  <td>vd bilabial trill
+</td>
+</tr>
+<tr><td>β	</td>
+  <td>946	</td>
+  <td>03B2	</td>
+  <td>vd bilabial fricative
+</td>
+</tr>
+<tr><td>ɔ	</td>
+  <td>596	</td>
+  <td>0254	</td>
+  <td>open-mid back rounded
+</td>
+</tr>
+<tr><td>ɕ	</td>
+  <td>597	</td>
+  <td>0255	</td>
+  <td>vl alveolopalatal fricative
+</td>
+</tr>
+<tr><td>ç	</td>
+  <td>231	</td>
+  <td>00E7	</td>
+  <td>vl palatal fricative
+</td>
+</tr>
+<tr><td>ɗ	</td>
+  <td>599	</td>
+  <td>0257	</td>
+  <td>vd alveolar implosive
+</td>
+</tr>
+<tr><td>ɖ	</td>
+  <td>598	</td>
+  <td>0256	</td>
+  <td>vd retroflex plosive
+</td>
+</tr>
+<tr><td>ð	</td>
+  <td>240	</td>
+  <td>00F0	</td>
+  <td>vd dental fricative
+</td>
+</tr>
+<tr><td>ʤ	</td>
+  <td>676	</td>
+  <td>02A4	</td>
+  <td>vd postalveolar affricate
+</td>
+</tr>
+<tr><td>ə	</td>
+  <td>601	</td>
+  <td>0259	</td>
+  <td>schwa
+</td>
+</tr>
+<tr><td>ɘ	</td>
+  <td>600	</td>
+  <td>0258	</td>
+  <td>close-mid schwa
+</td>
+</tr>
+<tr><td>ɚ	</td>
+  <td>602	</td>
+  <td>025A	</td>
+  <td>rhotacized schwa
+</td>
+</tr>
+<tr><td>ɛ	</td>
+  <td>603	</td>
+  <td>025B	</td>
+  <td>open-mid front unrounded
+</td>
+</tr>
+<tr><td>ɜ	</td>
+  <td>604	</td>
+  <td>025C	</td>
+  <td>open-mid central
+</td>
+</tr>
+<tr><td>ɝ	</td>
+  <td>605	</td>
+  <td>025D	</td>
+  <td>rhotacized open-mid central
+</td>
+</tr>
+<tr><td>ɞ	</td>
+  <td>606	</td>
+  <td>025E	</td>
+  <td>open-mid central rounded
+</td>
+</tr>
+<tr><td>ɟ	</td>
+  <td>607	</td>
+  <td>025F	</td>
+  <td>vd palatal plosive
+</td>
+</tr>
+<tr><td>ʄ	</td>
+  <td>644	</td>
+  <td>0284	</td>
+  <td>vd palatal implosive
+</td>
+</tr>
+<tr><td>ɡ	</td>
+  <td>609	</td>
+  <td>0261	</td>
+  <td>vd velar plosive<br>(but the IPA has ruled that an ordinary <font face="Times New Roman">g</font> is also acceptable)
+</td>
+</tr>
+<tr><td>ɠ	</td>
+  <td>608	</td>
+  <td>0260	</td>
+  <td>vd velar implosive
+</td>
+</tr>
+<tr><td>ɢ	</td>
+  <td>610	</td>
+  <td>0262	</td>
+  <td>vd uvular plosive
+</td>
+</tr>
+<tr><td>ʛ	</td>
+  <td>667	</td>
+  <td>029B	</td>
+  <td>vd uvular implosive
+</td>
+</tr>
+<tr><td>ɦ	</td>
+  <td>614	</td>
+  <td>0266	</td>
+  <td>vd glottal fricative
+</td>
+</tr>
+<tr><td>ɧ	</td>
+  <td>615	</td>
+  <td>0267	</td>
+  <td>vl multiple-place fricative
+</td>
+</tr>
+<tr><td>ħ	</td>
+  <td>295	</td>
+  <td>0127	</td>
+  <td>vl pharyngeal fricative
+</td>
+</tr>
+<tr><td>ɥ	</td>
+  <td>613	</td>
+  <td>0265	</td>
+  <td>labial-palatal approximant
+</td>
+</tr>
+<tr><td>ʜ	</td>
+  <td>668	</td>
+  <td>029C	</td>
+  <td>vl epiglottal fricative
+</td>
+</tr>
+<tr><td>ɨ	</td>
+  <td>616	</td>
+  <td>0268	</td>
+  <td>close central unrounded
+</td>
+</tr>
+<tr><td>ɪ	</td>
+  <td>618	</td>
+  <td>026A	</td>
+  <td>lax close front unrounded
+</td>
+</tr>
+<tr><td>ʝ	</td>
+  <td>669	</td>
+  <td>029D	</td>
+  <td>vd palatal fricative
+</td>
+</tr>
+<tr><td>ɭ	</td>
+  <td>621	</td>
+  <td>026D	</td>
+  <td>vd retroflex lateral
+</td>
+</tr>
+<tr><td>ɬ	</td>
+  <td>620	</td>
+  <td>026C	</td>
+  <td>vl alveolar lateral fricative
+</td>
+</tr>
+<tr><td>ɫ	</td>
+  <td>619	</td>
+  <td>026B	</td>
+  <td>velarized vd alveolar lateral
+</td>
+</tr>
+<tr><td>ɮ	</td>
+  <td>622	</td>
+  <td>026E	</td>
+  <td>vd alveolar lateral fricative
+</td>
+</tr>
+<tr><td>ʟ	</td>
+  <td>671 </td>
+  <td>029F	</td>
+  <td>vd velar lateral
+</td>
+</tr>
+<tr><td>ɱ	</td>
+  <td>625	</td>
+  <td>0271	</td>
+  <td>vd labiodental nasal
+</td>
+</tr>
+<tr><td>ɯ	</td>
+  <td>623	</td>
+  <td>026F	</td>
+  <td>close back unrounded
+</td>
+</tr>
+<tr><td>ɰ	</td>
+  <td>624 </td>
+  <td>0270	</td>
+  <td>velar approximant
+</td>
+</tr>
+<tr><td>ŋ	</td>
+  <td>331	</td>
+  <td>014B	</td>
+  <td>vd velar nasal
+</td>
+</tr>
+<tr><td>ɳ	</td>
+  <td>627	</td>
+  <td>0273	</td>
+  <td>vd retroflex nasal
+</td>
+</tr>
+<tr><td>ɲ	</td>
+  <td>626  </td>
+  <td>0272	</td>
+  <td>vd palatal nasal
+</td>
+</tr>
+<tr><td>ɴ	</td>
+  <td>628	</td>
+  <td>0274	</td>
+  <td>vd uvular nasal
+</td>
+</tr>
+<tr><td>ø	</td>
+  <td>248	</td>
+  <td>00F8	</td>
+  <td>front close-mid rounded
+</td>
+</tr>
+<tr><td>ɵ	</td>
+  <td>629 </td>
+  <td>0275	</td>
+  <td>rounded schwa
+</td>
+</tr>
+<tr><td>ɸ	</td>
+  <td>632	</td>
+  <td>0278	</td>
+  <td>vl bilabial fricative
+</td>
+</tr>
+<tr><td>θ	</td>
+  <td>952	</td>
+  <td>03B8	</td>
+  <td>vl dental fricative
+</td>
+</tr>
+<tr><td>œ	</td>
+  <td>339 </td>
+  <td>0153	</td>
+  <td>front open-mid rounded
+</td>
+</tr>
+<tr><td>ɶ	</td>
+  <td>630	</td>
+  <td>0276	</td>
+  <td>front open rounded
+</td>
+</tr>
+<tr><td>ʘ	</td>
+  <td>664	</td>
+  <td>0298	</td>
+  <td>bilabial click
+</td>
+</tr>
+<tr><td>ɹ	</td>
+  <td>633	</td>
+  <td>0279	</td>
+  <td>vd (post)alveolar approximant
+</td>
+</tr>
+<tr><td>ɺ	</td>
+  <td>634	</td>
+  <td>027A	</td>
+  <td>vd alveolar lateral flap
+</td>
+</tr>
+<tr><td>ɾ	</td>
+  <td>638	</td>
+  <td>027E	</td>
+  <td>vd alveolar tap
+</td>
+</tr>
+<tr><td>ɻ	</td>
+  <td>635	</td>
+  <td>027B	</td>
+  <td>vd retroflex approximant
+</td>
+</tr>
+<tr><td>ʀ	</td>
+  <td>640	</td>
+  <td>0280	</td>
+  <td>vd uvular trill
+</td>
+</tr>
+<tr><td>ʁ	</td>
+  <td>641	</td>
+  <td>0281	</td>
+  <td>vd uvular fricative
+</td>
+</tr>
+<tr><td>ɽ	</td>
+  <td>637 </td>
+  <td>027D	</td>
+  <td>vd retroflex flap
+</td>
+</tr>
+<tr><td>ʂ	</td>
+  <td>642	</td>
+  <td>0282	</td>
+  <td>vl retroflex fricative
+</td>
+</tr>
+<tr><td>ʃ	</td>
+  <td>643	</td>
+  <td>0283	</td>
+  <td>vl postalveolar fricative
+</td>
+</tr>
+<tr><td>ʈ	</td>
+  <td>648	</td>
+  <td>0288	</td>
+  <td>vl retroflex plosive
+</td>
+</tr>
+<tr><td>ʧ	</td>
+  <td>679	</td>
+  <td>02A7	</td>
+  <td>vl postalveolar affricate
+</td>
+</tr>
+<tr><td>ʉ	</td>
+  <td>649	</td>
+  <td>0289	</td>
+  <td>close central rounded
+</td>
+</tr>
+<tr><td>ʊ	</td>
+  <td>650	</td>
+  <td>028A	</td>
+  <td>lax close back rounded
+</td>
+</tr>
+<tr><td>ʋ	</td>
+  <td>651	</td>
+  <td>028B	</td>
+  <td>vd labiodental approximant
+</td>
+</tr>
+<tr><td>ⱱ	</td>
+	<td>11377	</td>
+	<td>2C71	</td>
+	<td>voiced labiodental flap
+</td>
+</tr>
+<tr><td>ʌ	</td>
+  <td>652	</td>
+  <td>028C	</td>
+  <td>open-mid back unrounded
+</td>
+</tr>
+<tr><td>ɣ	</td>
+  <td>611	</td>
+  <td>0263	</td>
+  <td>vd velar fricative
+</td>
+</tr>
+<tr><td>ɤ	</td>
+  <td>612	</td>
+  <td>0264	</td>
+  <td>close-mid back unrounded
+</td>
+</tr>
+<tr><td>ʍ	</td>
+  <td>653	</td>
+  <td>028D	</td>
+  <td>vl labial-velar fricative
+</td>
+</tr>
+<tr><td>χ	</td>
+  <td>967	</td>
+  <td>03C7	</td>
+  <td>vl uvular fricative
+</td>
+</tr>
+<tr><td>ʎ	</td>
+  <td>654	</td>
+  <td>028E	</td>
+  <td>vd palatal lateral
+</td>
+</tr>
+<tr><td>ʏ	</td>
+  <td>655	</td>
+  <td>028F	</td>
+  <td>lax close front rounded
+</td>
+</tr>
+<tr><td>ʑ	</td>
+  <td>657	</td>
+  <td>0291	</td>
+  <td>vd alveolopalatal fricative
+</td>
+</tr>
+<tr><td>ʐ	</td>
+  <td>656	</td>
+  <td>0290	</td>
+  <td>vd retroflex fricative
+</td>
+</tr>
+<tr><td>ʒ	</td>
+  <td>658	</td>
+  <td>0292	</td>
+  <td>vd postalveolar fricative
+</td>
+</tr>
+<tr><td>ʔ	</td>
+  <td>660	</td>
+  <td>0294	</td>
+  <td>glottal plosive
+</td>
+</tr>
+<tr><td>ʡ	</td>
+  <td>673	</td>
+  <td>02A1	</td>
+  <td>vd epiglottal plosive
+</td>
+</tr>
+<tr><td>ʕ	</td>
+  <td>661	</td>
+  <td>0295	</td>
+  <td>vd pharyngeal fricative
+</td>
+</tr>
+<tr><td>ʢ	</td>
+  <td>674	</td>
+  <td>02A2	</td>
+  <td>vd epiglottal fricative
+</td>
+</tr>
+<tr><td>ǀ	</td>
+  <td>448	</td>
+  <td>01C0	</td>
+  <td>dental click
+</td>
+</tr>
+<tr><td>ǁ	</td>
+  <td>449	</td>
+  <td>01C1	</td>
+  <td>alveolar lateral click
+</td>
+</tr>
+<tr><td>ǂ	</td>
+  <td>450 </td>
+  <td>01C2	</td>
+  <td>alveolar click
+</td>
+</tr>
+<tr><td>ǃ	</td>
+  <td>451 </td>
+  <td>01C3	</td>
+  <td>retroflex click</td></tr>
+</tbody></table>
+
+<p><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#numbers">Top of lists</a></p>
+
+<h3><a name="spac" id="spac"></a>Spacing diacritics and suprasegmentals</h3>
+<li>To study these, you may find it helpful to set your browser text size to <b>Largest</b>.
+<p></p>
+<table align="center" width="90%">
+<tbody><tr bgcolor="#C6E2FF"><th>Symbol	</th>
+  <th>decimal </th>
+  <th>hex </th>
+  <th>value
+</th>
+</tr>
+<tr><td width="10%">ˈ	</td>
+  <td width="15%">712 	</td>
+  <td width="15%">02C8	</td>
+  <td width="60%">(primary) stress mark
+</td>
+</tr>
+<tr><td>ˌ	</td>
+  <td>716	</td>
+  <td>02CC	</td>
+  <td>secondary stress
+</td>
+</tr>
+<tr><td>ː	</td>
+  <td>720 </td>
+  <td>02D0	</td>
+  <td valign="top">length mark <font color="red">NB: there is a bug in some versions of MS IExplorer that causes this character not to display. It is probably best to use a simple colon instead.</font>
+</td>
+</tr>
+<tr><td>ˑ	</td>
+  <td>721	</td>
+  <td>02D1	</td>
+  <td>half-length
+</td>
+</tr>
+<tr><td>ʼ	</td>
+  <td>700	</td>
+  <td>02BC	</td>
+  <td>ejective
+</td>
+</tr>
+<tr><td>ʴ	</td>
+  <td>692	</td>
+  <td>02B4	</td>
+  <td>rhotacized
+</td>
+</tr>
+<tr><td>ʰ	</td>
+  <td>688	</td>
+  <td>02B0	</td>
+  <td>aspirated
+</td>
+</tr>
+<tr><td>ʱ	</td>
+  <td>689	</td>
+  <td>02B1	</td>
+  <td>breathy-voice-aspirated
+</td>
+</tr>
+<tr><td>ʲ	</td>
+  <td>690	</td>
+  <td>02B2	</td>
+  <td>palatalized
+</td>
+</tr>
+<tr><td>ʷ	</td>
+  <td>695	</td>
+  <td>02B7	</td>
+  <td>labialized
+</td>
+</tr>
+<tr><td>ˠ	</td>
+  <td>736	</td>
+  <td>02E0	</td>
+  <td>velarized
+</td>
+</tr>
+<tr><td>ˤ	</td>
+  <td>740 </td>
+  <td>02E4	</td>
+  <td>pharyngealized
+
+</td>
+</tr>
+<tr><td>˞	</td>
+  <td>734	</td>
+  <td>02DE	</td>
+  <td>rhotacized
+
+</td>
+</tr>
+</tbody></table> </li>
+<li>Note the ready-made characters ɚ 602 025A (combining ə 601 0259 and ˞ 734 02DE) and ɝ 605 025D (combining ɜ 604 025C and ˞ 734 02DE).
+<p><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#numbers">Top of lists</a></p>
+
+<h3><a name="nonspac" id="nonspac"></a>Non-spacing diacritics and suprasegmentals</h3></li>
+<li>As you can see, several of these are unsatisfactory, particularly in smaller sizes. They are shown here with an appropriate supporting base character. When composing a text in HTML, enter  the diacritic <b>after</b> the base character, thus (voiceless n, n̥) <code>n&amp;#805;</code>. The browser automatically backspaces the diacritic, but by a constant amount, which may or may not produce a satisfactory result.
+<table align="center" width="75%">
+<tbody><tr bgcolor="#C6E2FF"><th>Symbol	</th>
+  <th>decimal </th>
+  <th>hex </th>
+  <th>value
+</th>
+</tr>
+<tr><td width="10%">n̥ d̥	</td>
+  <td width="15%">805	</td>
+  <td width="15%">0325	</td>
+  <td>voiceless
+</td>
+</tr>
+<tr><td>ŋ̊	</td>
+  <td>778 </td>
+  <td>030A	</td>
+  <td>voiceless <small>(use if character has descender)</small>
+</td>
+</tr>
+<tr><td>b̤ a̤	</td>
+  <td>804	</td>
+  <td>0324 	</td>
+  <td>breathy voiced
+</td>
+</tr>
+<tr><td>t̪ d̪	</td>
+  <td>810 </td>
+  <td>032A	</td>
+  <td>dental
+</td>
+</tr>
+<tr><td>s̬ t̬	</td>
+  <td>812 </td>
+  <td>032C	</td>
+  <td>voiced
+</td>
+</tr>
+<tr><td>b̰ a̰	</td>
+  <td>816	</td>
+  <td>0330	</td>
+  <td>creaky voiced
+</td>
+</tr>
+<tr><td>t̺ d̺	</td>
+  <td>826	</td>
+  <td>033A	</td>
+  <td>apical
+</td>
+</tr>
+<tr><td>t̼ d̼	</td>
+  <td>828	</td>
+  <td>033C	</td>
+  <td>linguolabial
+</td>
+</tr>
+<tr><td>t̻ d̻	</td>
+  <td>827	</td>
+  <td>033B	</td>
+  <td>laminal
+</td>
+</tr>
+<tr><td>t̚	</td>
+  <td>794	</td>
+  <td>031A	</td>
+  <td>not audibly released
+</td>
+</tr>
+<tr><td>ɔ̹	</td>
+  <td>825	</td>
+  <td>0339	</td>
+  <td>more rounded
+</td>
+</tr>
+<tr><td>ẽ	</td>
+  <td>771	</td>
+  <td>0303	</td>
+  <td>nasalized
+</td>
+</tr>
+<tr><td>ɔ̜	</td>
+  <td>796	</td>
+  <td>031C	</td>
+  <td>less rounded
+</td>
+</tr>
+<tr><td>u̟	</td>
+  <td>799	</td>
+  <td>031F	</td>
+  <td>advanced
+</td>
+</tr>
+<tr><td>e̠	</td>
+  <td>800	</td>
+  <td>0320	</td>
+  <td>retracted
+</td>
+</tr>
+<tr><td>ë	</td>
+  <td>776	</td>
+  <td>0308	</td>
+  <td>centralized
+</td>
+</tr>
+<tr><td>l̴ n̴ </td>
+  <td>820	</td>
+  <td>0334	</td>
+  <td>velarized or pharyngealized
+</td>
+</tr>
+<tr><td>ɫ </td>
+  <td>619	</td>
+  <td>026B	</td>
+  <td><small>(ready-made combination, dark l)</small>
+</td>
+</tr>
+<tr><td>e̽	</td>
+  <td>829	</td>
+  <td>033D	</td>
+  <td>mid-centralized
+</td>
+</tr>
+<tr><td>e̝ ɹ̝	</td>
+  <td>797	</td>
+  <td>031D	</td>
+  <td>raised
+</td>
+</tr>
+<tr><td>m̩ n̩ l̩</td>
+  <td>809	</td>
+  <td>0329	</td>
+  <td>syllabic
+</td>
+</tr>
+<tr><td>e̞ β̞	</td>
+  <td>798	</td>
+  <td>031E	</td>
+  <td>lowered
+</td>
+</tr>
+<tr><td>e̯	</td>
+  <td>815	</td>
+  <td>032F	</td>
+  <td>non-syllabic
+</td>
+</tr>
+<tr><td>e̘	</td>
+  <td>792	</td>
+  <td>0318	</td>
+  <td>advanced tongue root
+</td>
+</tr>
+<tr><td>e̙	</td>
+  <td>793	</td>
+  <td>0319	</td>
+  <td>retracted tongue root
+</td>
+</tr>
+<tr><td>ĕ	</td>
+  <td>774	</td>
+  <td>0306	</td>
+  <td>extra-short
+</td>
+</tr>
+<tr><td>e̋	</td>
+  <td>779	</td>
+  <td>030B	</td>
+  <td>extra high tone
+</td>
+</tr>
+<tr><td>é	</td>
+  <td>769	</td>
+  <td>0301	</td>
+  <td>high tone
+</td>
+</tr>
+<tr><td>ē	</td>
+  <td>772	</td>
+  <td>0304	</td>
+  <td>mid tone
+</td>
+</tr>
+<tr><td>è	</td>
+  <td>768	</td>
+  <td>0300	</td>
+  <td>low tone
+</td>
+</tr>
+<tr><td>ȅ	</td>
+  <td>783	</td>
+  <td>030F	</td>
+  <td>extra low tone
+</td>
+</tr>
+<tr><td>x͜x</td>
+	<td>860 </td>
+	<td>035C </td>
+	<td>tie bar below
+</td></tr>
+<tr><td>x͡x</td>
+	<td>865 </td>
+	<td>0361 </td>
+	<td>tie bar above
+</td></tr>
+
+</tbody></table>
+<h3><a name="arrows"></a>Arrows</h3>
+<table align="center" width="75%">
+<tbody><tr bgcolor="#C6E2FF"><th>Symbol	</th>
+  <th>decimal </th>
+  <th>hex </th>
+  <th>value
+</th>
+</tr>
+<tr><td width="10%">↓	</td>
+  <td width="15%">8595	</td>
+  <td width="15%">2193	</td>
+  <td>downstep
+</td>
+</tr>
+<tr><td>↑	</td>
+  <td>8593	</td>
+  <td>2191	</td>
+  <td>upstep
+</td>
+</tr>
+<tr><td>→	</td>
+  <td>8594	</td>
+  <td>2192	</td>
+  <td>(becomes, is realized as <font color="red" size="-1">— not recognized by the IPA</font>)
+</td>
+</tr>
+<tr><td>↗	</td>
+  <td>8599	</td>
+  <td>2197	</td>
+  <td>global rise
+</td>
+</tr>
+<tr><td>↘	</td>
+  <td>8600 	</td>
+  <td>2198	</td>
+  <td>global fall
+</td>
+</tr>
+</tbody></table>
+<p><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#numbers">Top of lists</a><br><a href="http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm#top">Top of document</a>
+</p>
+<p>For a much more thorough discussion of displaying and using Unicode characters, see <a href="http://www.alanwood.net/unicode/"><span style="background-color: #ccffff">Alan Wood's Unicode resources</span></a>.</p>
+<hr>
+
+<!-- <li>To tell the browser that your HTML document is a Unicode document, include the following tag in the &lt;HEAD&gt; section: <font size=3><blockquote><code>&lt;META CONTENT="text/html; CHARSET=UTF-8"&gt;</code></blockquote></font> -->
+<p>Page authored by John Wells, <script type="text/javascript">
+emailE=('j.wells@' + 'ucl.ac.uk')
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
+</script><a href="mailto:j.wells@ucl.ac.uk">j.wells@ucl.ac.uk</a>
+</p><p>My <a href="http://www.phon.ucl.ac.uk/home/wells/index.html">home page</a>
+</p><p>Last revised 2012 06 04</p>
+
+</li></font></div><font face="Segoe UI,Lucida Grande">
+</font>
+<!-- ############################ end of body text ################################### -->
+
+<!-- Footer -->
+</div>
+</td>
+</tr>
+</tbody></table>
+
+<!-- footer -->
+<table id="footerTable" border="0" cellpadding="3" cellspacing="3">
+<tbody><tr><td align="center">
+<p class="contact">University College London - Gower Street - London - WC1E 6BT - <img src="./IPA transcription in Unicode_files/phone" width="13" height="9" id="phone" alt="Telephone:"> +44 (0)20 7679 2000 - Copyright © 1999-2015 UCL</p>
+	<div class="inlinelist">
+		<ul>
+
+		<li><a href="http://www.ucl.ac.uk/disclaimer/" title="Disclaimer">Disclaimer</a> |  </li>
+		<li><a href="http://www.ucl.ac.uk/accessibility/" title="Accessibility">Accessibility</a> | </li>
+
+		<li><a href="http://www.ucl.ac.uk/priv/" title="Privacy">Privacy</a> | </li>
+		<li><a href="http://www.ucl.ac.uk/advanced-search/" title="Advanced Search">Advanced Search</a> | </li>
+
+		<li><a href="http://www.ucl.ac.uk/help/" title="Help">Help</a></li>
+		</ul>
+	</div>
+
+</td></tr>
+</tbody></table>
+
+
+</center></form>
+
+
+
+  
+
+</center></body></html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Desk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LearningCards>
+    <Card>
+      <Word>word5</Word>
+      <Meaning>Meaning5</Meaning>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T00:02:25.3171563+07:00</ReviewDate>
+      <EF>2.5</EF>
+    </Card>
+    <Card>
+      <Word>word1</Word>
+      <Meaning>Meaning1</Meaning>
+      <Revision>1</Revision>
+      <ReviewDate>2016-09-04T00:02:23.3163152+07:00</ReviewDate>
+      <EF>2.5</EF>
+    </Card>
+  </LearningCards>
+  <LearnedCards>
+    <Card>
+      <Word>word2</Word>
+      <Meaning>Meaning2</Meaning>
+      <Revision>1</Revision>
+      <ReviewDate>2016-09-03T00:02:23.8164726+07:00</ReviewDate>
+      <EF>2.5</EF>
+    </Card>
+    <Card>
+      <Word>word3</Word>
+      <Meaning>Meaning3</Meaning>
+      <Revision>1</Revision>
+      <ReviewDate>2016-09-03T00:02:24.3165633+07:00</ReviewDate>
+      <EF>2.5</EF>
+    </Card>
+    <Card>
+      <Word>word4</Word>
+      <Meaning>Meaning4</Meaning>
+      <Revision>2</Revision>
+      <ReviewDate>2016-09-03T00:02:24.8168024+07:00</ReviewDate>
+      <EF>2.5</EF>
+    </Card>
+  </LearnedCards>
+  <DeletedCards />
+</Desk>

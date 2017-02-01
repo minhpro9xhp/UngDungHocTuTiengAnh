@@ -1,0 +1,14 @@
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb

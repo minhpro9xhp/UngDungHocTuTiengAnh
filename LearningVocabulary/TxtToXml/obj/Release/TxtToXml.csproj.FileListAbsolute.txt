@@ -1,0 +1,16 @@
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\bin\Release\TxtToXml.exe.config
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\bin\Release\TxtToXml.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\bin\Release\TxtToXml.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\obj\Release\TxtToXml.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\obj\Release\TxtToXml.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\TxtToXml\obj\Release\TxtToXml.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\bin\Release\TxtToXml.exe.config
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\obj\Release\TxtToXml.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\obj\Release\TxtToXml.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\bin\Release\TxtToXml.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\bin\Release\TxtToXml.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\TxtToXml\obj\Release\TxtToXml.csprojResolveAssemblyReference.cache

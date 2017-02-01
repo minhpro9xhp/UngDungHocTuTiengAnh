@@ -1,0 +1,320 @@
+﻿<Window x:Class="UngDungHocTu.ManageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UngDungHocTu"
+        mc:Ignorable="d"
+        Title="Quản lý" Height="500" Width="800" ResizeMode="NoResize" Closing="Window_Closing">
+    <Grid x:Name="layoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2.5*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid  Grid.Row="0" Grid.Column="0" Background="LightGray">
+            <DockPanel LastChildFill="False">
+                <Menu DockPanel.Dock="Left">
+                    <MenuItem Header=" _File">
+                        <MenuItem Header="_New" />
+                        <MenuItem Header="_Import Database" Click="butImportDatabase_Click"/>
+                        <MenuItem Header="_Export Database">
+                            <MenuItem Header="_*.xml" Click="butExportDatabase_Click"/>
+                            <MenuItem Header="_*.xlsx (MS Excel)" Visibility="Collapsed"/>
+                            <MenuItem Header="_*.docx (MS Word)" Visibility="Collapsed"/>
+                        </MenuItem>
+
+                        <Separator />
+                        <MenuItem Header="_Exit" Click="butExitManageWindow_Click" InputGestureText="Alt + F4">
+
+                        </MenuItem>
+                    </MenuItem>
+                    <MenuItem Header="_Tools">
+                        <MenuItem Header="_Lọc từ mới trong văn bản"/>
+                    </MenuItem>
+                    <MenuItem Header="_Setting" Click="butSetting_Click">
+
+                    </MenuItem>
+                    <MenuItem Header="_Help">
+                        <MenuItem Header="_Help Contents"/>
+                        <MenuItem Header="_Tutorials"/>
+                        <Separator/>
+                        <MenuItem Header="_Home Page"/>
+                        <MenuItem Header="_Contact Support"/>
+                        <Separator/>
+                        <MenuItem Header="_Check for updates..."/>
+                        <Separator/>
+                        <MenuItem Header="_About" Click="butAbout_Click"/>
+                        <MenuItem Header="_Tell a friend"/>
+                    </MenuItem>
+                </Menu>
+            </DockPanel>
+        </Grid>
+        <StackPanel Grid.Column="0" Grid.Row="1" Panel.ZIndex="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Height="20" Margin="0,4,6,0">
+            <DockPanel>
+                <Button x:Name="findingButton" DockPanel.Dock="Right" Margin="5,0,0,0" Click="findingButton_Click">Tìm</Button>
+                <TextBox x:Name="findingTextBox" DockPanel.Dock="Right" Width="150" TextChanged="findingTextBox_TextChanged"></TextBox>
+            </DockPanel>
+            
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" Panel.ZIndex="1" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="20" Margin="0,0,23,13">
+            <Button x:Name="butAlphabeticalOrder" Margin="0,0,5,0" Background="Transparent" BorderThickness="0" Click="butAlphabeticalOrder_Click">
+                <Image x:Name="butAlphabeticalOrder_icon" Source="Resources/Buttons/ascending_order.png" ToolTip="Sắp xếp thứ tự"/>
+            </Button>
+        </StackPanel>
+        <TabControl x:Name="tabControlCard" SelectedIndex="0" Grid.Column="0" Grid.Row="1" Margin="5" SelectionChanged="tabControlCard_SelectionChanged">
+            <TabItem x:Name="tabItemLearningCard" Header="Từ đang học">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <ScrollViewer Grid.Row="0" >
+                        <StackPanel x:Name="stackPanelLearningCard" Orientation="Vertical">
+                            <StackPanel.Resources>
+                                <Style TargetType="StackPanel">
+                                    <Setter Property="Orientation" Value="Horizontal"/>
+                                    <Setter Property="Margin" Value="10"/>
+                                </Style>
+                                <Style TargetType="Border">
+                                    <Setter Property="VerticalAlignment" Value="Top"/>
+                                    <Setter Property="Margin" Value="5,5,5,0"/>
+                                    <Setter Property="Height" Value="50"/>
+                                    <Setter Property="BorderThickness" Value="1"/>
+                                    <Setter Property="Background" Value="White"/>
+                                </Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="VerticalAlignment" Value="Bottom"/>
+                                </Style>
+                                <Style TargetType="Separator">
+                                    <Setter Property="Margin" Value="5,0,10,0"/>
+                                </Style>
+                            </StackPanel.Resources>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Superman</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Aqua Man</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Wonder Woman</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                        </StackPanel>
+                    </ScrollViewer>
+                    <DockPanel Grid.Row="1" LastChildFill="False">
+                        <TextBlock x:Name="textBlockLearningCardCount" DockPanel.Dock="Left">CSDL:</TextBlock>
+                    </DockPanel>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabItemUnlearnedCard" Header="Từ chưa học" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <ScrollViewer Grid.Row="0">
+                        <StackPanel x:Name="stackPanelUnlearnedCard" Orientation="Vertical">
+                            <StackPanel.Resources>
+                                <Style TargetType="StackPanel">
+                                    <Setter Property="Orientation" Value="Horizontal"/>
+                                    <Setter Property="Margin" Value="10"/>
+                                </Style>
+                                <Style TargetType="Border">
+                                    <Setter Property="VerticalAlignment" Value="Top"/>
+                                    <Setter Property="Margin" Value="5,5,5,0"/>
+                                    <Setter Property="Height" Value="50"/>
+                                    <Setter Property="BorderThickness" Value="1"/>
+                                </Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="VerticalAlignment" Value="Bottom"/>
+                                </Style>
+                                <Style TargetType="Separator">
+                                    <Setter Property="Margin" Value="5,0,10,0"/>
+                                </Style>
+                            </StackPanel.Resources>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Superman</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Aqua Man</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Wonder Woman</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                        </StackPanel>
+                    </ScrollViewer>
+                    <DockPanel Grid.Row="1">
+                        <TextBlock x:Name="textBlockUnlearnedCardCount" DockPanel.Dock="Left">CSDL:</TextBlock>
+                    </DockPanel>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="tabItemLearnedCard" Header="Từ đã học">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <ScrollViewer Grid.Row="0">
+                        <StackPanel x:Name="stackPanelLearnedCard" Orientation="Vertical">
+                            <StackPanel.Resources>
+                                <Style TargetType="StackPanel">
+                                    <Setter Property="Orientation" Value="Horizontal"/>
+                                    <Setter Property="Margin" Value="10"/>
+                                </Style>
+                                <Style TargetType="Border">
+                                    <Setter Property="VerticalAlignment" Value="Top"/>
+                                    <Setter Property="Margin" Value="5,5,5,0"/>
+                                    <Setter Property="Height" Value="50"/>
+                                    <Setter Property="BorderThickness" Value="1"/>
+                                </Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="VerticalAlignment" Value="Bottom"/>
+                                </Style>
+                                <Style TargetType="Separator">
+                                    <Setter Property="Margin" Value="5,0,10,0"/>
+                                </Style>
+                            </StackPanel.Resources>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Superman</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Aqua Man</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                            <Border>
+                                <StackPanel>
+                                    <TextBlock FontSize="22">Wonder Woman</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="20,0,0,3">/pronunciation/</TextBlock>
+                                    <TextBlock Foreground="Gray" Margin="25,0,0,3">1. First Meaning 2. Second Meaning 3....</TextBlock>
+                                </StackPanel>
+                            </Border>
+                            <Separator/>
+                        </StackPanel>
+                    </ScrollViewer>
+                    <DockPanel Grid.Row="1">
+                        <TextBlock x:Name="textBlockLearnedCardCount" DockPanel.Dock="Left">CSDL:</TextBlock>
+                    </DockPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Grid Grid.Row="0" Grid.Column="1" Background="LightGray">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="13">Bảng chỉnh sửa</TextBlock>    
+        </Grid>
+        
+        <Grid Grid.Column="1" Grid.Row="1" Background="LightGray">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" VerticalAlignment="Top" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel x:Name="stackPanelEditCard" Grid.Row="0" Margin="5" IsEnabled="False">
+                    <ListBox AllowDrop="True" SelectionMode="Single" Visibility="Collapsed" >
+                        <ListBoxItem Content="Từ đang học"></ListBoxItem>
+                        <ListBoxItem Content="Từ chưa học"></ListBoxItem>
+                        <ListBoxItem Content="Từ đã học"></ListBoxItem>
+                    </ListBox>
+                    <DockPanel>
+                        <TextBlock DockPanel.Dock="Top">Từ:</TextBlock>
+                        <TextBox x:Name="textBoxEditWord"></TextBox>
+                    </DockPanel>
+                    <DockPanel>
+                        <TextBlock DockPanel.Dock="Top">Phiên âm:</TextBlock>
+                        <Button x:Name="butPronunciationWindow" Visibility="Visible" DockPanel.Dock="Bottom" Margin="0,5,0,0" Width="150" Click="butPronunciationWindow_Click">Công cụ gõ phiên âm</Button>
+                        <TextBox x:Name="textBoxEditPronunciation" DockPanel.Dock="Left"></TextBox>
+
+                    </DockPanel>
+                    <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto" Height="230" Margin="0,0,0.4,0">
+                        <StackPanel>
+                            <StackPanel.Resources>
+                                <Style TargetType="DockPanel">
+                                    <Setter Property="Margin" Value="0,5,0,5"/>
+                                </Style>
+                            </StackPanel.Resources>
+                            <DockPanel>
+                                <TextBlock DockPanel.Dock="Top">Nghĩa thứ 1:</TextBlock>
+                                <TextBox x:Name="textBoxEditFirstMeaning" DockPanel.Dock="Top"></TextBox>
+                                <TextBlock DockPanel.Dock="Top">VD:</TextBlock>
+                                <TextBox x:Name="textBoxEditFirstExample"></TextBox>
+                            </DockPanel>
+                            <DockPanel>
+                                <TextBlock DockPanel.Dock="Top">Nghĩa thứ 2:</TextBlock>
+                                <TextBox x:Name="textBoxEditSecondMeaning" DockPanel.Dock="Top"></TextBox>
+                                <TextBlock DockPanel.Dock="Top">VD:</TextBlock>
+                                <TextBox x:Name="textBoxEditSecondExample"></TextBox>
+                            </DockPanel>
+                            <DockPanel>
+                                <TextBlock DockPanel.Dock="Top">Nghĩa thứ 3:</TextBlock>
+                                <TextBox x:Name="textBoxEditThirdMeaning" DockPanel.Dock="Top"></TextBox>
+                                <TextBlock DockPanel.Dock="Top">VD:</TextBlock>
+                                <TextBox x:Name="textBoxEditThirdExample"></TextBox>
+                            </DockPanel>
+                        </StackPanel>
+                    </ScrollViewer>
+
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Center" Height="20" Margin="0,8,0,0" >
+                <DockPanel x:Name="dockPanelEditCard" Visibility="Collapsed">
+                    <Button x:Name="butSaveCard" Margin="0,0,5,0" Width="45" Click="butSaveCard_Click">Save</Button>
+                    <Button x:Name="butCancelSaveCard" Margin="0,0,35,0" Width="45" Click="butCancelSaveCard_Click">Cancel</Button>
+                    <Button x:Name="butDelete" Click="butDelete_Click" Width="20" ToolTip="Xóa từ này">
+                        <Image Source="Resources/Buttons/delete.png"></Image>
+                    </Button>
+                </DockPanel>
+                <DockPanel x:Name="dockPanelCreateCard" Visibility="Collapsed">
+                    <Button x:Name="butCreateNewCard" Margin="0,0,20,0" Width="45" Click="butCreateNewCard_Click">Tạo</Button>
+                    <Button x:Name="butCancelCreateNewCard" Width="45" Click="butCancelCreateNewCard_Click">Hủy bỏ</Button>
+                </DockPanel>
+                <DockPanel x:Name="dockPanelNewCard" Visibility="Visible">
+                    <Button x:Name="butNewCard" Click="butNewCard_Click">Tạo mới</Button>
+                </DockPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

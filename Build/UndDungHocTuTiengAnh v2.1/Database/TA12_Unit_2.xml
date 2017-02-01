@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LearningCards>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:32.9020101+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>bride</Word>
+      <Meaning>cô dâu</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:35.7701742+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>confide</Word>
+      <Meaning>chia sẻ, tâm sự</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:38.3303206+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>conical</Word>
+      <Meaning>có hình nón</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:42.3495505+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>contractual</Word>
+      <Meaning>thoả thuận</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:49.8039769+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>counterpart</Word>
+      <Meaning>bên tương ứng, đối tác</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:53.7442022+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>determine</Word>
+      <Meaning>xác định</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:56:57.2154008+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>groom</Word>
+      <Meaning>chú rể</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:57:01.1576263+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>maintain</Word>
+      <Meaning>giữ, duy trì</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:57:04.0617924+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>oblige</Word>
+      <Meaning>bắt buộc, cưỡng bách</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:57:08.7700617+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>precede</Word>
+      <Meaning>đến trước, đi trước</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:57:15.6894574+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>reject</Word>
+      <Meaning>khước từ, bác bỏ, loại bỏ</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:57:18.6286256+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>rim</Word>
+      <Meaning>vành, mép</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:57:20.296721+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>sacrifice</Word>
+      <Meaning>hi sinh</Meaning>
+    </Card>
+  </LearningCards>
+  <LearnedCards />
+  <DeletedCards />
+  <UnlearnedCards />
+  <Setting>
+    <ChkDisplayMeaning>true</ChkDisplayMeaning>
+    <WordLimit>30</WordLimit>
+    <BackgroundImageUri>C:\Users\Minh-laptop\Desktop\plane_background.jpg</BackgroundImageUri>
+  </Setting>
+  <CurrentLearningCard>
+    <Revision>0</Revision>
+    <ReviewDate>2016-09-06T20:52:44.1079239+07:00</ReviewDate>
+    <EF>2.5</EF>
+    <Word>absolute</Word>
+    <Meaning>tuyệt đối, hoàn toàn</Meaning>
+  </CurrentLearningCard>
+  <NextLearningCard>
+    <Revision>0</Revision>
+    <ReviewDate>2016-09-06T20:52:44.1079239+07:00</ReviewDate>
+    <EF>2.5</EF>
+    <Word>unacceptable</Word>
+    <Meaning>không chấp nhận được</Meaning>
+  </NextLearningCard>
+</Deck>

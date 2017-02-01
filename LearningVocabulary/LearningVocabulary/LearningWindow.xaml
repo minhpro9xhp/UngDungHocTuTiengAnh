@@ -1,0 +1,116 @@
+﻿<Window x:Class="LearningVocabulary.LearningWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LearningVocabulary"
+        mc:Ignorable="d"
+        Title="Ứng dụng học từ" MinWidth="250" MinHeight="156" Topmost="True" ResizeMode="CanResize" SizeToContent="WidthAndHeight" MouseLeftButtonDown="Window_MouseLeftButtonDown" Closed="Window_Closed"
+        MouseEnter="Window_MouseEnter" MouseLeave="Window_MouseLeave" ShowInTaskbar="False" WindowStyle="None" AllowsTransparency="True">
+    <Window.Background>
+        <ImageBrush x:Name="backgroundImage" ImageSource="Resources/Backgrounds/11.jpg"></ImageBrush>
+    </Window.Background>
+    <Grid x:Name="layoutRoot">
+        <Grid Name="stackCard" Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <DockPanel x:Name="dockPanelButton" Grid.Row="0" VerticalAlignment="Top" LastChildFill="False">
+                <DockPanel.Resources>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="BorderThickness" Value="0"/>
+                    </Style>
+                </DockPanel.Resources>
+                <Button Name="butExit" DockPanel.Dock="Right" Click="butExit_Click" ToolTip="Thoát">
+                    <Image Source="Resources/Buttons/exit.png" MaxHeight="12"></Image>
+                </Button>
+                <Button Name="butMinimize" DockPanel.Dock="Right" Margin="0,0,5,0" Click="butMinimize_Click" ToolTip="Thu nhỏ">
+                    <Image Source="Resources/Buttons/minimize.png" MaxHeight="12"></Image>
+                </Button>
+                <Button Name="butMainMenu" DockPanel.Dock="Left" Margin="0,0,5,0" ToolTip="Quản lý" Click="butMainMenu_Click">
+                    <Image  Source="Resources/Buttons/manage.png" MaxHeight="12"></Image>
+                </Button>
+            </DockPanel>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="7*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="7*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" HorizontalAlignment="Center">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Viewbox Width="220" Height="50" Grid.Column="0" >
+                        <TextBlock x:Name ="txtWord" TextWrapping="WrapWithOverflow" VerticalAlignment="Center" TextAlignment="Center">Application</TextBlock>
+                    </Viewbox>
+                </Grid>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,0">
+                    <TextBlock Name ="txtPronunication"  HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="12" TextWrapping="WrapWithOverflow">/pronun/</TextBlock>
+                    <Image x:Name="imgSpeak" Grid.Column="1" Source="Resources/Buttons/speaker.png" Height="16" Width="16" Margin="5,0,0,0" ToolTip="Phát âm từ này" MouseEnter="imgSpeak_MouseEnter"></Image>
+                </StackPanel>
+                
+                <ScrollViewer Grid.Row="2">
+                    <StackPanel>
+                        <TextBlock Name="txtFirstMeaning"  HorizontalAlignment="Center" Margin="0,5,0,0" FontSize="12" TextWrapping="NoWrap" TextAlignment="Justify" >1. Sample 1</TextBlock>
+                        <TextBlock Name="txtSecondMeaning" HorizontalAlignment="Center" FontSize="12" TextWrapping="NoWrap" TextAlignment="Justify" >2. Sample 2</TextBlock>
+                        <TextBlock Name="txtThirdMeaning"  HorizontalAlignment="Center" FontSize="12" TextWrapping="NoWrap" TextAlignment="Justify" >3. Sample 3</TextBlock>
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+            <!--Word Content Grid-->
+            <Grid Grid.Row="2">
+                <Grid.Resources>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Foreground" Value="DarkSlateGray"/>
+                        <Setter Property="FontSize" Value="9"/>
+                    </Style>
+                </Grid.Resources>
+                <TextBlock Name="txtLastCard" HorizontalAlignment="Left">Last Card</TextBlock>
+                <TextBlock Name ="txtTotalCard" HorizontalAlignment="Center" >15 card</TextBlock>
+                <TextBlock Name ="txtNextCard" HorizontalAlignment="Right">Next Card</TextBlock>
+            </Grid>
+        </Grid>
+        <!--Feedback area-->
+        <Grid x:Name="butFeedbackPanel" Panel.ZIndex="2" VerticalAlignment="Bottom" Margin="5" MinHeight="32" Width="200" Visibility="Collapsed">
+            <Grid.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="MaxHeight" Value="22"/>
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="BorderThickness" Value="0"/>
+                </Style>
+            </Grid.Resources>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Name="butFeedback5" Grid.Column="0" Grid.Row="0" Click="butFeedback5_Click" MouseEnter="butFeedback5_MouseEnter" MouseLeave="butFeedback5_MouseLeave">
+                <Image Source="Resources/Feedback/Feedback5.png" ToolTip="Đã ghi nhớ" ></Image>
+            </Button>
+            <Button Name="butFeedback4" Grid.Column="1" Grid.Row="0" Click="butFeedback4_Click" MouseEnter="butFeedback4_MouseEnter" MouseLeave="butFeedback4_MouseLeave">
+                <Image Source="Resources/Feedback/Feedback4.png" ToolTip="Tương đối nhớ" ></Image>
+            </Button>
+            <Button Name="butFeedback3" Grid.Column="2" Grid.Row="0" Click="butFeedback3_Click" MouseEnter="butFeedback3_MouseEnter" MouseLeave="butFeedback3_MouseLeave">
+                <Image Source="Resources/Feedback/Feedback3.png" ToolTip="Nhớ chưa chắc chắn" ></Image>
+            </Button>
+            <Button Name="butFeedback2" Grid.Column="3" Grid.Row="0" Click="butFeedback2_Click" MouseEnter="butFeedback2_MouseEnter" MouseLeave="butFeedback2_MouseLeave">
+                <Image Source="Resources/Feedback/Feedback2.png" ToolTip="Nhớ mang máng" ></Image>
+            </Button>
+            <Button Name="butFeedback1" Grid.Column="4" Grid.Row="0" Click="butFeedback1_Click" MouseEnter="butFeedback1_MouseEnter" MouseLeave="butFeedback1_MouseLeave">
+                <Image Source="Resources/Feedback/Feedback1.png" ToolTip="Đã quên" ></Image>
+            </Button>
+        </Grid>
+        <Image x:Name="blueBar" Panel.ZIndex="1" VerticalAlignment="Bottom" Source="Resources/bluebar.png" Opacity="0.5" Width="200" Visibility="Collapsed"></Image>
+    </Grid>
+</Window>

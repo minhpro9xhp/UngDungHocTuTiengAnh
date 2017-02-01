@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>F:\PROGRAMMING\Publish\|F:\PROGRAMMING\Pulish\|F:\PROGRAMMING\|C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\Publish1\|C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\Publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory>C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\Publish|F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\PUBLISH\Portable_Hoc Tu Tieng Anh_v1.0 %28with .Net%29\Portable_Hoc Tu Tieng Anh\.Net Framework  4.6|C:\Users\Minh\Desktop\Hoc Tu Tieng Anh</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

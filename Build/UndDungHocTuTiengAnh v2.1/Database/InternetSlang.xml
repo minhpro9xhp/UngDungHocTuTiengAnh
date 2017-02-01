@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LearningCards>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:45:08.0111405+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>MHMM</Word>
+      <FirstMeaning>Yes, sure, OK</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:46:07.2365258+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>WTF</Word>
+      <FirstMeaning>What the f*** ?</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:47:00.4034981+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>XYZ</Word>
+      <FirstMeaning>Examine Your Zipper</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:47:55.1992104+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>TGIF</Word>
+      <FirstMeaning>Thank God It's Friday</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:48:36.1554775+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>LMAO</Word>
+      <FirstMeaning>Laughing My Ass Off</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:48:50.9943095+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>LOL</Word>
+      <FirstMeaning>Laughing Out Loud</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:49:35.6033892+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>AMA</Word>
+      <FirstMeaning>Ask Me Anything</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:49:54.4192427+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>Bae</Word>
+      <FirstMeaning>Babe/Before Anyone Else</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:50:22.9955913+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>Dafuq</Word>
+      <FirstMeaning>(What) the f*** ?</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:51:05.1398059+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>Facepalm</Word>
+      <FirstMeaning>Ugh, idiot</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:51:50.6788745+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>NSFW</Word>
+      <FirstMeaning>Not Safe For Work</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:52:19.0731385+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>YOLO</Word>
+      <FirstMeaning>You Only Live Once</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:55:24.1612796+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>B4U</Word>
+      <FirstMeaning>Before for you</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:55:48.4280891+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>BF</Word>
+      <FirstMeaning>boyfriend / best friend</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:56:09.459253+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>BFF</Word>
+      <FirstMeaning>best friend forever</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:56:56.3055632+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>BTW</Word>
+      <FirstMeaning>by the way</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:57:19.4577942+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>CIAO</Word>
+      <FirstMeaning>Goodbye (in Italian)</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:57:54.0022484+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>CTO</Word>
+      <FirstMeaning>Check This Out</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:58:09.5100429+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>CU</Word>
+      <FirstMeaning>See You</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T20:59:21.5155859+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>FAQ </Word>
+      <FirstMeaning>Frequently Asked Question</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:00:55.7848899+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>G9</Word>
+      <FirstMeaning>Good night</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:02:05.519489+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>J4F</Word>
+      <FirstMeaning>Just For Fun</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:02:20.4123948+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>K</Word>
+      <FirstMeaning>Ok</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:02:25.927618+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>JK</Word>
+      <FirstMeaning>Just Kidding</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:02:46.1550249+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>KISS</Word>
+      <FirstMeaning>Keep It Simple Stupid</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:03:03.9938124+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>KO</Word>
+      <FirstMeaning>Knock Out</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:03:29.6008566+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>LGBT</Word>
+      <FirstMeaning>Lesbian, Gay, Bisexual, Transgender</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:03:53.7921362+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>LGMAS</Word>
+      <FirstMeaning>Lord Give Me A Sign</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:04:13.5205009+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>LIG</Word>
+      <FirstMeaning>Let It Go</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:05:50.8478999+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>NVM</Word>
+      <FirstMeaning>nerver mind</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:06:22.3852057+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>OT</Word>
+      <FirstMeaning>work overtime</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:06:42.7592778+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>PC</Word>
+      <FirstMeaning>Personal Computer</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:07:03.1073475+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>PLZ</Word>
+      <FirstMeaning>Please</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:08:37.598394+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>TY</Word>
+      <FirstMeaning>Thank You</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:08:56.6155896+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>W8</Word>
+      <FirstMeaning>wait</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:09:23.505576+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>WD</Word>
+      <FirstMeaning>Well Done</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:09:36.7023299+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>WDYM</Word>
+      <FirstMeaning>What Do You Mean ?</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:09:49.7358532+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>WE</Word>
+      <FirstMeaning>Whatever</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:10:04.7811612+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>Wknd</Word>
+      <FirstMeaning>Weekend</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:10:24.1540287+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>WOT</Word>
+      <FirstMeaning>Waste Of Time</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:10:39.3924732+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>WTG</Word>
+      <FirstMeaning>Way To Go</FirstMeaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-03T21:10:50.3131259+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>Wuzup</Word>
+      <FirstMeaning>What's Up ?</FirstMeaning>
+    </Card>
+  </LearningCards>
+  <LearnedCards />
+  <DeletedCards />
+  <CurrentLearningCard>
+    <Revision>0</Revision>
+    <ReviewDate>2016-09-03T19:03:40.7391259+07:00</ReviewDate>
+    <EF>2.5</EF>
+    <Word />
+    <FirstMeaning />
+  </CurrentLearningCard>
+  <NextLearningCard>
+    <Revision>1</Revision>
+    <ReviewDate>2016-09-04T18:30:48.2526089+07:00</ReviewDate>
+    <EF>2.5</EF>
+    <Word>eat</Word>
+    <FirstMeaning>Ăn uống</FirstMeaning>
+  </NextLearningCard>
+</Deck>

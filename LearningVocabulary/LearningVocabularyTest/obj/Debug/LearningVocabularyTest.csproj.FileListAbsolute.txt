@@ -1,0 +1,16 @@
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyTest.dll
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyTest.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\obj\Debug\LearningVocabularyTest.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\obj\Debug\LearningVocabularyTest.dll
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabularyTest\obj\Debug\LearningVocabularyTest.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyTest.dll
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyTest.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\obj\Debug\LearningVocabularyTest.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\obj\Debug\LearningVocabularyTest.dll
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabularyTest\obj\Debug\LearningVocabularyTest.pdb

@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      xml:lang="en">
+    <head>
+        <title>UCL Error Message</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+        <link rel="shortcut icon" href="http://www.ucl.ac.uk/silva/ucl-branding-demo/++resource++images/favicon2.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="contact.name" content="Web Services" />
+        <meta name="contact.email" content="web-support@ucl.ac.uk" />
+
+        <!--Start General Layout Styles-->
+        <!--Start UCL default layout 3 column styles-->
+        <link href="http://www.ucl.ac.uk/silva/ucl-branding-demo/++resource++css/ucl_default_layout.css" rel="stylesheet" type="text/css" />
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" type="text/css" href="http://www.ucl.ac.uk/silva/ucl-branding-demo/++resource++patches/patch_ucl_default_layout.css" />
+        <![endif]-->
+        <!--End UCL default layout 3 column styles-->
+
+        <!--Corporate identity styling below-->
+        <link href="http://www.ucl.ac.uk/silva/ucl-branding-demo/++resource++css/screen/corp-identity-mid-green.css" rel="stylesheet" type="text/css" />
+        <!--Corporate identity styling above-->
+        <!--End General Layout Styles-->
+
+        <!--Print CSS-->
+        <link href="http://www.ucl.ac.uk/silva/ucl-branding-demo/++resource++css/print/print.css" media="print" rel="stylesheet" type="text/css" />
+        <!--Set IE to be print smaller width, so that it doesn't crop content-->
+        <!--[if lte IE 8]>
+            <style type="text/css">
+                @media print {body, div.page, #main{width:600px;}}
+            </style>
+        <![endif]-->
+        <!--End Print CSS-->
+        <style>
+.error { padding:2px 4px; background-color: #ffffff; color: #393736; } 
+.info { font-size: 100%; background-color:#ffffff; padding:0; } 
+.info h2 { color:#d00; font-size:185%; } 
+
+        </style>
+
+        <!-- _______ Silva version 2.1.7 _______ -->
+    <script type="text/javascript" src="http://gc.kis.scr.kaspersky-labs.com/DD9C561D-F8ED-0E4E-A4BC-1A5C137C685C/main.js" charset="UTF-8"></script></head>
+    <body>
+        <div class="page_margins">
+            <!-- Graphic Border - Begin Part 1 -->
+            <div id="border-top">
+                <div id="edge-tl"> </div>
+                <div id="edge-tr"> </div>
+            </div>
+            <!-- Graphic Border - End Part 1 -->
+            <div class="page">
+                <div id="header" class="tb-dark_grey">
+                    <div id="topnav">
+                        <!-- start: skip link navigation -->
+                        <a class="skip" href="#navigation" title="skip link">skip to navigation</a><span class="hideme">.</span>
+                        <a class="skip" href="#content" title="skip link">skip to content</a><span class="hideme">.</span>
+                        <!-- end: skip link navigation -->
+                    </div>
+                    <h1 class="section_header_white">UCL Error Message</h1>
+                    <span class="section_subheader_white"></span>
+                    <div id="logo_holder"> 
+                        <a href="/"><img src="http://www.ucl.ac.uk/silva/ucl-branding-demo/++resource++images/corp-identity-mid-green.gif" alt="UCL Home" /></a>
+                    </div> 
+                </div>
+                <!-- Begin bradcrumbs row -->
+                <div id="nav" class="noprint">
+                    <div class="hlist" id="corp-identity-mid-green">
+                        <!--Start Search box-->
+                        <div id="search"> 
+                            <form action="http://search2.ucl.ac.uk/search/search.cgi" method="get" id="googlesearch">
+                            <input placeholder="Search UCL" name="query" id="query" type="text" value="" accesskey="q" value="Search UCL">
+                            <input type="hidden" name="collection" value="ucl-public-meta">
+                            <input type="submit" value="GO" class="submit" name="Submit">
+                            </form>
+                        </div>
+                        <!--End search Box-->
+                        <ul>
+                            <li>
+                                <a href="http://www.ucl.ac.uk">UCL Home</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!--End Breadcrumbs-->
+
+                <!-- begin: main content area #main -->
+                <div id="main">
+                  <div class="ucl-branding-demo">
+                        <!-- begin: #col1 - first float column -->
+                        <div id="col1">
+                            <div id="col1_content" class="clearfix">
+                              <a id="navigation" name="navigation"></a>
+                              <!--Start Generate Menu-->
+                              <h6 class="vlist">UCL Error Message</h6>
+                              <ul class="vlist">
+                                  <li class=""><a href="http://www.ucl.ac.uk/" class="document-content">UCL Home</a></li>
+                              </ul>
+                              <!--End Generate Menu-->
+                              <!--Start left include-->
+                              <div id="left-silva-content" class="leftcontainer">
+                              </div>
+                              <!--End left include-->
+                            </div>
+                        </div>
+                        <!-- end: #col1 -->
+                        <!-- begin: #col2 second float column -->
+                        <div id="col2">
+                            <div id="col2_content" class="clearfix">
+                                <div class="textsize"> 
+                                  <!--div class="fontResizer">
+                                    <a href="#" class="smallFont">A</a>
+                                    <a href="#" class="medFont">A</a>
+                                    <a href="#" class="largeFont">A</a>
+                                  </div-->
+                                </div>
+
+                                <!--Start rightcontent-->
+                                <div id="rightcontent" class="container"> 
+                                    <!--insert index_right-->
+                                    <div id="right-column">
+                                    </div>
+                                </div>
+                                <!--End rightcontent-->
+                            </div>
+                        </div>
+                        <!-- end: #col2 -->
+                        <!-- begin: #col3 static column -->
+                        <div id="col3">
+                            <div id="col3_content" class="clearfix">
+                                <a id="content" name="content"></a>
+                                <!--Start center content area-->
+                                <!-- start main slot where silva content gets rendered--> 
+                                
+
+                                
+                                  <div class="info">
+                                    <h2 class="heading">The resource cannot be found</h2>
+                                    <p class="p">
+                                      <acronym title="Uniform Resource Locator">URL</acronym>:
+                                      http://www.ucl.ac.uk/pals/++resource++images/phone
+                                      <br /><br />
+                                    </p>
+                                    <h4 class="heading">
+                                      Most likely causes:
+                                    </h4>
+                                      <ul>
+                                          <li>There might be a typing error in the address.</li>
+                                          <li>If you clicked on a link, it may be out of date.</li>
+                                      </ul>
+                                    <h4 class="heading">
+                                      What you can try:
+                                    </h4>
+                                      <ul>
+                                          <li>Retype the address.</li>
+                                          <li>Use the search box above to find what you're looking for.</li>
+                                          <li>Go to <a href="http://www.ucl.ac.uk" title="UCL Website">www.ucl.ac.uk</a> and look for the information you want.</li>
+                                          <li><a href="javascript:history.back()" title="Back to previous page">Go back to the previous page.</a></li>
+                                      </ul>
+                                    <h4 class="heading">
+                                      More information:
+                                    </h4>
+                                    <p class="p">
+                                        This error (<acronym title="Hypertext Transfer Protocol">HTTP</acronym> 404 Not Found) means that you have connected to the UCL Website, but the page you wanted was not found. It's possible that the webpage is temporarily unavailable. Alternatively, the UCL Website might have changed or removed the webpage. 
+                                    </p>
+                                  </div>
+                                
+
+                                <!-- end main slot where silva content gets rendered--> 
+                                <!--End center content area-->
+                            </div>
+                            <div id="ie_clearing">&nbsp;</div>
+                            <!-- End: IE Column Clearing -->
+                        </div>
+                        <!-- end: #col3 -->
+                  </div>
+                </div>
+                <!-- end: #main -->
+                <!-- begin: #footer -->
+                <!-- =============== FOOTER =============== -->
+                <div id="access"></div>
+                <div id="footer"> 
+                    <ul>
+                        <li><a href="http://www.ucl.ac.uk/disclaimer">Disclaimer</a></li>
+                        <li><a href="http://www.ucl.ac.uk/foi">Freedom of Information</a></li>
+                        <li><a href="http://www.ucl.ac.uk/accessibility">Accessibility</a></li>
+                        <li><a href="http://www.ucl.ac.uk/privacy">Privacy</a></li>
+                        <li><a href="http://www.ucl.ac.uk/advanced-search">Advanced Search</a></li>
+                        <li><a href="http://www.ucl.ac.uk/contact-list/">Contact Us</a></li>
+                    </ul>
+                    <div>
+                        <address class="vcard">
+                            <span class="adr">
+                                University College London - Gower Street - London - WC1E 6BT
+                            </span>
+                            <span class="tel">
+                                <span class="type">Tel</span>:
+                                <span class="value">+44 (0)20 7679 2000</span>
+                            </span>
+                        </address>
+                        <p>&#169; UCL 1999&#8211;<script type="text/javascript">
+                        <!--
+                        var d = new Date();
+                        var curr_year = d.getFullYear();
+                        document.write(curr_year);
+                        -->
+                        </script></p>
+                    </div>
+                    <div id="editbar">
+
+                    </div>
+                </div>
+                <!-- end #footer -->
+            </div>
+
+            <!-- Graphic Border - Begin Part 2 -->
+            <div id="border-bottom">
+                <div id="edge-bl"> </div>
+                <div id="edge-br"> </div>
+            </div>
+            <!-- Graphic Border - End Part 2 -->
+        </div>
+<!-- Begin Google Analytics code -->                            
+<script type="text/javascript">                                 
+var _gaq = _gaq || [];                                          
+_gaq.push(['_setAccount', 'UA-943297-1']);                      
+_gaq.push(['_trackPageview']);                                  
+_gaq.push(['_trackEvent',                                       
+'Error',                                                        
+'404',                                                          
+'page: '                                                          
++ 
+ document.location.pathname + document.location.search + ' ref: '
++
+ document.referrer ]);
+_gaq.push(['_trackPageLoadTime']);
+
+(function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End Google Analytics code -->
+    </body>
+</html>

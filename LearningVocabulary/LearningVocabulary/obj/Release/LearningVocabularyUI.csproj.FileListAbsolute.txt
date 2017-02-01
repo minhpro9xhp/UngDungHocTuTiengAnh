@@ -1,0 +1,512 @@
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.manifest
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.application
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.TrustInfo.xml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe.manifest
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.application
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\MainWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\App.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Release\UngDungHocTu.application

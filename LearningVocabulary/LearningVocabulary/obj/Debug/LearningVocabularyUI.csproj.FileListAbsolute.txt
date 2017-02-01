@@ -1,0 +1,686 @@
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.manifest
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.application
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.TrustInfo.xml
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe.manifest
+C:\Users\Minh\Desktop\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.TrustInfo.xml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.application
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+F:\GOOGLE DRIVE\PKB\SUBSYSTEMS\PROGRAMMING\SUBSYSTEM\APPS\Hoc Tu Tieng Anh (1)\V1.1\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.4\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabulary.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.5\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\MainWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Lap Chi\Desktop\V1.6\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Lap Chi\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V1.7\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.7.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh-laptop\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Lap Chi\Desktop\V1.8.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.0\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.1\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.2\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.config
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.application
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\UngDungHocTu.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\App.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_Content.g.cs
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu_MarkupCompile.lref
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\AboutWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\AddCardFromDatabase.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\LearningWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageDatabase.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearnedCard.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageLearningCard.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\ManageWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\PronunciationWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\SettingWindow.baml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.g.resources
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.Properties.Resources.resources
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\LearningVocabularyUI.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.TrustInfo.xml
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.exe.manifest
+C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\obj\Debug\UngDungHocTu.application

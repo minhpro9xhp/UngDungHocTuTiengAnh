@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ChkDisplayMeaning>true</ChkDisplayMeaning>
+  <ChkCreateDesktopIcon>true</ChkCreateDesktopIcon>
+  <IsStartUpWithWindow>false</IsStartUpWithWindow>
+  <WordLimit>30</WordLimit>
+  <BackgroundImageUri>C:\Users\Minh\Desktop\V2.3\LearningVocabulary\LearningVocabulary\bin\Release\Resources\Backgrounds\1.jpg</BackgroundImageUri>
+  <BackgroundImageOpacity>1</BackgroundImageOpacity>
+  <TimeToChangeWord>0</TimeToChangeWord>
+</Setting>

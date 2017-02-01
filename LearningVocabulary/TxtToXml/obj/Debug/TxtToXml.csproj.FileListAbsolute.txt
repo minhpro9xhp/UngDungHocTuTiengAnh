@@ -1,0 +1,16 @@
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\bin\Debug\TxtToXml.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\bin\Debug\TxtToXml.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\bin\Debug\TxtToXml.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\obj\Debug\TxtToXml.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\obj\Debug\TxtToXml.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\obj\Debug\TxtToXml.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\TxtToXml\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\bin\Debug\TxtToXml.exe.config
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\bin\Debug\TxtToXml.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\bin\Debug\TxtToXml.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\bin\Debug\LearningVocabularyLib.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\bin\Debug\LearningVocabularyLib.pdb
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\obj\Debug\TxtToXml.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\obj\Debug\TxtToXml.exe
+C:\Users\Minh\Google Drive\Hoc Tu Tieng Anh\V1.6\LearningVocabulary\TxtToXml\obj\Debug\TxtToXml.pdb

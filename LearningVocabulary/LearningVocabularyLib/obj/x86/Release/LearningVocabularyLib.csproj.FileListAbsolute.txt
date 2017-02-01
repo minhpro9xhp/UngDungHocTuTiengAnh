@@ -1,0 +1,7 @@
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\x86\Release\LearningVocabularyLib.exe.config
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\x86\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\x86\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\bin\x86\Release\LearningVocabularyLib.exe
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\x86\Release\LearningVocabularyLib.exe.manifest
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\x86\Release\LearningVocabularyLib.application
+C:\Users\Lap Chi\Desktop\Hoc Tu Tieng Anh\V1.5\LearningVocabulary\LearningVocabularyLib\obj\x86\Release\LearningVocabularyLib.exe

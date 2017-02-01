@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LearningCards>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:53:54.9479757+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>biologist</Word>
+      <Meaning>nhà sinh vật học</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:01.7683658+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>caring</Word>
+      <Meaning>quan tâm tới người khác</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:06.3046252+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>close-knit</Word>
+      <Meaning>quan hệ khăng khít</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:11.0998995+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>household chore</Word>
+      <Meaning>việc nhà, việc vặt trong nhà</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:16.7872248+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>join hands</Word>
+      <Meaning>cùng nhau</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:19.6293874+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>leftovers</Word>
+      <Meaning>thức ăn thừa, đồ ăn còn lại sau bữa ăn</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:22.8695727+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>secure</Word>
+      <Meaning>an toàn</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:25.3997174+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>shift</Word>
+      <Meaning>ca, kíp</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:28.4898942+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>supportive (of)</Word>
+      <Meaning>ủng hộ</Meaning>
+    </Card>
+    <Card>
+      <Revision>0</Revision>
+      <ReviewDate>2016-09-06T20:54:31.581071+07:00</ReviewDate>
+      <EF>2.5</EF>
+      <Word>willing (to do something)</Word>
+      <Meaning>sẵn sàng làm gì đó</Meaning>
+    </Card>
+  </LearningCards>
+  <LearnedCards />
+  <DeletedCards />
+  <UnlearnedCards />
+  <Setting>
+    <ChkDisplayMeaning>true</ChkDisplayMeaning>
+    <WordLimit>30</WordLimit>
+    <BackgroundImageUri>C:\Users\Minh-laptop\Desktop\plane_background.jpg</BackgroundImageUri>
+  </Setting>
+  <CurrentLearningCard>
+    <Revision>0</Revision>
+    <ReviewDate>2016-09-06T20:52:44.1079239+07:00</ReviewDate>
+    <EF>2.5</EF>
+    <Word>absolute</Word>
+    <Meaning>tuyệt đối, hoàn toàn</Meaning>
+  </CurrentLearningCard>
+  <NextLearningCard>
+    <Revision>0</Revision>
+    <ReviewDate>2016-09-06T20:52:44.1079239+07:00</ReviewDate>
+    <EF>2.5</EF>
+    <Word>unacceptable</Word>
+    <Meaning>không chấp nhận được</Meaning>
+  </NextLearningCard>
+</Deck>
